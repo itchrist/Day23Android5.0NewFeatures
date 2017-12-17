@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/01.Theme/01.Theme.iml" filepath="$PROJECT_DIR$/01.Theme/01.Theme.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02.RecyclerView/02.recyclerview.iml" filepath="$PROJECT_DIR$/02.RecyclerView/02.recyclerview.iml" />
       <module fileurl="file://$PROJECT_DIR$/Day23Android5.0NewFeatures.iml" filepath="$PROJECT_DIR$/Day23Android5.0NewFeatures.iml" />
     </modules>
   </component>

@@ -9,6 +9,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/01.Theme" />
+            <option value="$PROJECT_DIR$/02.RecyclerView" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
