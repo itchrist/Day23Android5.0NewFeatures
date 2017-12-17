@@ -1,12 +1,12 @@
 <resources>
 
     <!-- Base application theme. -->
-    <!--<style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
-        &lt;!&ndash; Customize your theme here. &ndash;&gt;
-        <item name="colorPrimary">@color/colorPrimary</item>
-        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
-        <item name="colorAccent">@color/colorAccent</item>
-    </style>-->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>  <!--标题栏-->
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>  <!--状态栏-->
+        <item name="colorAccent">@color/colorAccent</item>  <!-- 控件按下时的颜色，会影响水波纹效果，继承自colorAccent  -->
+    </style>
 
     <!--3.0以前的黑色主题-->
     <style name="AppTheme3.0before" parent="android:style/Theme">
