@@ -1,0 +1,41 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <!--<style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        &lt;!&ndash; Customize your theme here. &ndash;&gt;
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>-->
+
+    <!--3.0以前的黑色主题-->
+    <style name="AppTheme3.0before" parent="android:style/Theme">
+    </style>
+    <!--3.0以前的亮色主题-->
+    <style name="AppTheme3.0lightbefore" parent="android:style/Theme.Light">
+    </style>
+
+    <!--3.0之后的黑色主题-->
+    <style name="AppTheme3.0after" parent="android:style/Theme.Holo">
+    </style>
+    <!--3.0之后的亮色主题-->
+    <style name="AppTheme3.0lightafter" parent="android:style/Theme.Holo.Light">
+    </style>
+    <!--3.0之后的标题栏黑色主题-->
+    <style name="AppTheme3.0actionbarfter" parent="android:style/Theme.Holo.Light.DarkActionBar">
+    </style>
+
+    <!--5.0之后材料设计的黑色主题-->
+    <style name="AppTheme5.0" parent="android:style/Theme.Material">
+    </style>
+    <!--5.0之后的材料设计的亮色主题-->
+    <style name="AppTheme5.0light" parent="android:style/Theme.Material.Light">
+    </style>
+    <!--5.0之后的标题栏黑色主题-->
+    <style name="AppTheme5.0actionblack" parent="android:style/Theme.Material.Light.DarkActionBar">
+    </style>
+
+
+
+
+</resources>
